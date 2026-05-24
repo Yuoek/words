@@ -1,0 +1,51 @@
+Please report this error to author.
+`:help eskk` to see author's e-mail address.
+
+Sun Apr  5 19:24:17 2026
+
+--- char ---
+char: ''(0)
+mode(): n
+--- char ---
+
+--- exception ---
+exception type: Vim internal error
+v:exception: Can't read '/data/data/com.termux/files/home/Yu/db/eskk/my_jisyo'!
+v:throwpoint: VimLeavePre Autocommands for "*"..function <SNR>7_cmd_update_dictionary[3]..eskk#get_skk_dict[2]..eskk#dictionary#new[1]..<SNR>71_Dictionary_new[4]..<SNR>71_PhysicalDict_new[10]..<SNR>71_PhysicalDict_update_lines[9]..<SNR>71_PhysicalDict_update_lines_main, line 2
+
+--- exception ---
+
+--- preedit ---
+(no preedit)
+--- preedit ---
+
+--- Vim's :version ---
+NVIM v0.12.0
+Build type: Release
+LuaJIT 2.1.1774896198
+Run ":verbose version" for more info
+--- Vim's :version ---
+
+
+--- Operating System ---
+"uname -a" = Linux localhost 5.10.233-android12-9-g17b66bf6480c-dirty #1 SMP PREEMPT Mon Jan 12 03:32:42 UTC 2026 aarch64 Android
+--- Operating System ---
+
+--- feature-list ---
+gui_running = 0
+unix = 1
+mac = 0
+macunix = 0
+win16 = 0
+win32 = 0
+win64 = 0
+win32unix = 0
+win95 = 0
+amiga = 0
+beos = 0
+dos16 = 0
+dos32 = 0
+os2 = 0
+qnx = 0
+vms = 0
+--- feature-list ---
